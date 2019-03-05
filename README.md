@@ -10,5 +10,5 @@ First look at Selenium and Cucumber BDD testing automation.
     Needed to have my project in the test directory, not the java directory. Junit is only visible to the test directories.
     
     Can show: 
-      How to run multiple Feature tests at once.
-      Reports that are generated after a run.
+      #How to run multiple Feature tests at once.
+      #Reports that are generated after a run.
