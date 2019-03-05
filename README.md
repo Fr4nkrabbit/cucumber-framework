@@ -9,6 +9,12 @@ First look at Selenium and Cucumber BDD testing automation.
   Fixed my issue
     Needed to have my project in the test directory, not the java directory. Junit is only visible to the test directories.
     
+3/5/2019
+  First Feature Run
+    Ran my first real test using Selenium code to automate a login into StackOverflow.
+    
     Can show: 
       * How to run multiple Feature tests at once.
       * Reports that are generated after a run.
+      * How Cucumber and Selenium integrate together
+      * How Cucumber goes through Selenium code and runs through the automated scenario.
